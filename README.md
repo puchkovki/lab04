@@ -1,4 +1,4 @@
-## Laboratory work IV [![Build Status](https://travis-ci.com/puchkovki/lab04.svg?branch=master)](https://travis-ci.com/puchkovki/lab04)
+## Laboratory work IV [![Build Status](https://travis-ci.com/puchkovki/lab04-Travis-CI.svg?branch=master)](https://travis-ci.com/puchkovki/lab04-Travis-CI)
 
 
 Данная лабораторная работа посвещена изучению систем непрерывной интеграции на примере сервиса **Travis CI**
